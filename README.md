@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------
 Divided 100 days into 4 segments
 
- Phase 1 - Electronics
+[ Phase 1 ](https://github.com/bala5000/100DaysHardware/tree/main/Phase%201)- Electronics
  
  Phase 2 - Hardware + Software
  
