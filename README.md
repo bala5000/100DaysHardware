@@ -7,12 +7,7 @@ Divided 100 days into 4 segments
 
 [ Phase 1 ](https://github.com/bala5000/100DaysHardware/tree/main/Phase%201)- Electronics
  
- Phase 2 - Hardware + Software
- 
- Phase 3 - PCB Designing
- 
- Phase 4 - Embedded
- 
+
 There is a different directory for every phase; hence, suitable content will be managed inside them.
 
 The main motive of this program will be:
