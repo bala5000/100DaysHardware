@@ -7,11 +7,11 @@ Divided 100 days into 4 segments
 
  
 - [x] [Phase 1](https://github.com/AnshumanFauzdar/100DaysOfHardware/tree/main/Phase1) - Electronics
-- [ ] 
+   
 - [x] [Phase 2](https://github.com/AnshumanFauzdar/100DaysOfHardware/tree/main/Phase2) - Hardware + Software
-- [ ] 
+     
 - [x] [Phase 3](https://github.com/AnshumanFauzdar/100DaysOfHardware/tree/main/Phase3) - PCB Designing
-- [ ] 
+     
 - [x] [Phase 4](https://github.com/AnshumanFauzdar/100DaysOfHardware/tree/main/Phase4) - Embedded
 
 There is a different directory for every phase; hence, suitable content will be managed inside them.
