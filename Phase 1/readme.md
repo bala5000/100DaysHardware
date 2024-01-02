@@ -20,3 +20,5 @@ I've been learning this by focusing my future on embedded system software.
   - Multimeter
   - Semiconductors
   - Ideal and Practical Sources
+  - Switches
+  - Electromagnets
