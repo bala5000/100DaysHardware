@@ -24,11 +24,13 @@ I've been learning this by focusing my future on embedded system software.
   - Electromagnets
 
 <details>
-<details>
+
 <summary>6-10 Days</summary>
--
     
 ## Basic electronics components:
+- Bread Board
+- Resistor Series Parallel
+- LEDs
 
 </details>
 
