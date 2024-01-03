@@ -22,3 +22,47 @@ I've been learning this by focusing my future on embedded system software.
   - Ideal and Practical Sources
   - Switches
   - Electromagnets
+
+<details>
+<summary>6-10 Days</summary>
+    
+## Basic electronics components:
+- Bread Board Connections
+- LED
+- Series parallel Resitor connections
+
+</details>
+
+<details>
+<summary>11-15 Days</summary>
+
+## Analog Integrated Circuits
+
+</details>
+
+<details>
+<summary>16-20 Days</summary>
+
+## Digital Circuits
+
+</details>
+
+<details>
+<summary>21-25 Days</summary>
+
+## Power Supplies
+
+</details>
+
+<details>
+<summary>26-30 Days</summary>
+
+## Electromagnetic Compatibility
+
+</details>
+
+
+
+---
+
+[Go back home](https://github.com/AnshumanFauzdar/100DaysOfHardware)
