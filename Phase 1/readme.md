@@ -23,54 +23,68 @@ I've been learning this by focusing my future on embedded system software.
   - Switches
   - Electromagnets
 ---
-
+</details>
 <details>
-
 <summary>6-10 Days</summary>
     
-## Basic electronics components:
+## Practical Electronic Components :
 - Bread Board
-- Resistor Series Parallel
-- LEDs
-
+- Series and Parallel Circuits
 </details>
 
 <details>
 <summary>7-9 Days</summary>
 
 ## Analog Integrated Circuits
-
+- Ideal op-amp
+- Practical op-amp
+- Comparators
+- Voltage Reference
 </details>
 
 <details>
 <summary>10-12 Days</summary>
 
 ## Digital Circuits
-
+- Logic ICs
+- Interfacing
+- Microcontrollers
+- ADCs
 </details>
 
 <details>
 <summary>13-15 Days</summary>
 
 ## Power Supplies
-
+- General introduction
+- Input and Output parameters
+- Mechanical Requirements
+- Batteries
+- Circuit Protection
 </details>
 
 <details>
 <summary>16-18 Days</summary>
 
 ## Electromagnetic Compatibility
-
+- Legislation and standards
+- Circuit design and layout
+- Shielding
+- Filtering
+- Cables and connectors
 </details>
 
 <details>
 <summary>19-21 Days</summary>
 
 ## General Product Design
-
+- Safety
+- Design for production
+- Testability
+- Reliability
+- Thermal Management
 </details>
 
 ---
 
 [Go back home](https://github.com/AnshumanFauzdar/100DaysOfHardware)
-
