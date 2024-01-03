@@ -24,45 +24,50 @@ I've been learning this by focusing my future on embedded system software.
   - Electromagnets
 
 <details>
+<details>
 <summary>6-10 Days</summary>
+-
     
 ## Basic electronics components:
-- Bread Board Connections
-- LED
-- Series parallel Resitor connections
 
 </details>
 
 <details>
-<summary>11-15 Days</summary>
+<summary>7-9 Days</summary>
 
 ## Analog Integrated Circuits
 
 </details>
 
 <details>
-<summary>16-20 Days</summary>
+<summary>10-12 Days</summary>
 
 ## Digital Circuits
 
 </details>
 
 <details>
-<summary>21-25 Days</summary>
+<summary>13-15 Days</summary>
 
 ## Power Supplies
 
 </details>
 
 <details>
-<summary>26-30 Days</summary>
+<summary>16-18 Days</summary>
 
 ## Electromagnetic Compatibility
 
 </details>
 
+<details>
+<summary>19-21 Days</summary>
 
+## General Product Design
+
+</details>
 
 ---
 
 [Go back home](https://github.com/AnshumanFauzdar/100DaysOfHardware)
+
