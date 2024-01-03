@@ -22,6 +22,7 @@ I've been learning this by focusing my future on embedded system software.
   - Ideal and Practical Sources
   - Switches
   - Electromagnets
+---
 
 <details>
 
