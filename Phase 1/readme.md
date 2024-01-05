@@ -30,6 +30,10 @@ I've been learning this by focusing my future on embedded system software.
 ## Practical Electronic Components :
 - Bread Board
 - Series and Parallel Circuits
+- Transformers
+- Rectifier using Diodes
+- Capacitor as a filter
+- 
 </details>
 
 <details>
