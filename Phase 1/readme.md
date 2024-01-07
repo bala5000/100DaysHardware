@@ -40,10 +40,7 @@ I've been learning this by focusing my future on embedded system software.
 <summary>7-9 Days</summary>
 
 ## Analog Integrated Circuits
-- Ideal op-amp
-- Practical op-amp
-- Comparators
-- Voltage Reference
+-
 </details>
 
 <details>
