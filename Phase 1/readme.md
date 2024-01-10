@@ -33,14 +33,20 @@ I've been learning this by focusing my future on embedded system software.
 - Transformers
 - Rectifier using Diodes
 - Capacitor as a filter
-- 
+- Transistors
+- 7808 pin
 </details>
 
 <details>
-<summary>7-9 Days</summary>
+<summary>10-15 Days</summary>
 
-## Analog Integrated Circuits
--
+## Embedded Components and Analog Electronics: 
+- Sensors
+- LDR(Light Dependent Resistor)
+- Raspberry Pi Pico H
+- Verilog Simulations
+- Op-amp
+- 
 </details>
 
 <details>
