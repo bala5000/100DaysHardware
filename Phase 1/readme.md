@@ -46,7 +46,7 @@ I've been learning this by focusing my future on embedded system software.
 - Raspberry Pi Pico H
 - Verilog Simulations
 - Op-amp
-- 
+- Arduino Basics
 </details>
 
 <details>
