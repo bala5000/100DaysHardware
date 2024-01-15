@@ -50,9 +50,9 @@ I've been learning this by focusing my future on embedded system software.
 </details>
 
 <details>
-<summary>10-12 Days</summary>
+<summary>16-20 Days</summary>
 
-## Digital Circuits
+## Microprocessors and Microcontrollers
 - Logic ICs
 - Interfacing
 - Microcontrollers
@@ -60,9 +60,9 @@ I've been learning this by focusing my future on embedded system software.
 </details>
 
 <details>
-<summary>13-15 Days</summary>
+<summary>20-25 Days</summary>
 
-## Power Supplies
+## Digital Electronics
 - General introduction
 - Input and Output parameters
 - Mechanical Requirements
@@ -71,9 +71,9 @@ I've been learning this by focusing my future on embedded system software.
 </details>
 
 <details>
-<summary>16-18 Days</summary>
+<summary>26-30 Days</summary>
 
-## Electromagnetic Compatibility
+## Power Electronics
 - Legislation and standards
 - Circuit design and layout
 - Shielding
@@ -81,16 +81,6 @@ I've been learning this by focusing my future on embedded system software.
 - Cables and connectors
 </details>
 
-<details>
-<summary>19-21 Days</summary>
-
-## General Product Design
-- Safety
-- Design for production
-- Testability
-- Reliability
-- Thermal Management
-</details>
 
 ---
 
