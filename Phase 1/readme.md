@@ -47,6 +47,8 @@ I've been learning this by focusing my future on embedded system software.
 - Verilog Simulations
 - Op-amp
 - Arduino Basics
+- Modulation Techniques
+- Optocouplers
 </details>
 
 <details>
@@ -57,6 +59,9 @@ I've been learning this by focusing my future on embedded system software.
 - Interfacing
 - Microcontrollers
 - ADCs
+- Arduino Programming
+- DSO
+- HVAC design
 </details>
 
 <details>
