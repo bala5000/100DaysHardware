@@ -68,11 +68,12 @@ I've been learning this by focusing my future on embedded system software.
 <summary>20-25 Days</summary>
 
 ## Digital Electronics
-- General introduction
-- Input and Output parameters
-- Mechanical Requirements
-- Batteries
-- Circuit Protection
+- Flip Flops
+- Registers
+- Mux
+- FPGAs
+- Binary 7 segment
+- Sensors (Ultrasonic, Motion, MQ-2, etc)
 </details>
 
 <details>
@@ -89,4 +90,4 @@ I've been learning this by focusing my future on embedded system software.
 
 ---
 
-[Go back home](https://github.com/AnshumanFauzdar/100DaysOfHardware)
+[Go back home](https://github.com/bala5000/100DaysHardware)
