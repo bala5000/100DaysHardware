@@ -42,7 +42,7 @@ If any additional material, or code is required it will be updated in this direc
 
 ## Circuit Simulation continued
 - Testing basic circuits
-- LED, Motors and other simulation
+- LED, Motors, and other simulation
 - Advanced simulation
 </details>
 
@@ -60,7 +60,7 @@ If any additional material, or code is required it will be updated in this direc
 <details>
 <summary>56-60 Days</summary>
 
-## Raspberry pi high-resolution camera prototype
+## Raspberry Pi high-resolution camera prototype
 - Design inspired by COGNEX
 - Full assembly + Simulation
 </details>
