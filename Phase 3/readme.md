@@ -8,7 +8,7 @@ If any additional material, or code is required it will be updated in this direc
 ---
 
 <details>
-  <summary>43-45 Days</summary>
+  <summary>61-63 Days</summary>
   
   ## Schematic Making
   - Basics of circuit making
@@ -17,7 +17,7 @@ If any additional material, or code is required it will be updated in this direc
 </details>
 
 <details>
-<summary>46-48 Days</summary>
+<summary>64-67 Days</summary>
     
 ## Making examples schematics:
 - Studying already made examples
@@ -27,7 +27,7 @@ If any additional material, or code is required it will be updated in this direc
 </details>
 
 <details>
-<summary>49-51 Days</summary>
+<summary>68-71 Days</summary>
 
 ## Design Optimizations
 - PCB Shape and size
@@ -40,7 +40,7 @@ If any additional material, or code is required it will be updated in this direc
 </details>
 
 <details>
-<summary>52-54 Days</summary>
+<summary>72-75 Days</summary>
 
 ## Creating PCB Layouts
 - Converting from schematic to PCB
@@ -50,14 +50,14 @@ If any additional material, or code is required it will be updated in this direc
 </details>
 
 <details>
-<summary>55-57 Days</summary>
+<summary>76-79 Days</summary>
 
 ## Creating PCB Layouts continued
 
 </details>
 
 <details>
-<summary>58-60 Days</summary>
+<summary>80-83 Days</summary>
 
 ## Designing custom PCB for camera slider with the following parts:
 - ESP8266/32
@@ -68,7 +68,7 @@ If any additional material, or code is required it will be updated in this direc
 </details>
 
 <details>
-<summary>61-63 Days</summary>
+<summary>84-87 Days</summary>
 
 ## Designing custom PCB continued
 </details>
