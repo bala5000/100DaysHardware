@@ -1,10 +1,10 @@
 # Phase 2
 
-In this segment I will focus on hardware and software keeping 3D printing and software development in general.
+In this segment I will focus on hardware and software development in general.
 
 PS: I am familiar with basic hardware and software tools, if you are not do check out youtube videos and purchase kits and tools if required.
 
-If any additional material, code is required it will be updated in this directory only.
+If any additional material, or code is required it will be updated in this directory only.
 
 ---
 
@@ -51,17 +51,17 @@ If any additional material, code is required it will be updated in this director
 
 ## More software considerations
 - Git, github and version control
-- Make Presentation with basic examples
+- Make a Presentation with basic examples
 - Shipping projects + security
-- Making installers, bat installers etc.
-- How industrial software work?
+- Making installers, bat installers, etc.
+- How does industrial software work?
 </details>
 
 <details>
 <summary>56-60 Days</summary>
 
-## Raspberry pi high resolution camera prototype
-- Design inspired from COGNEX
+## Raspberry pi high-resolution camera prototype
+- Design inspired by COGNEX
 - Full assembly + Simulation
 </details>
 
