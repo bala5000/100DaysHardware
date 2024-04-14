@@ -10,7 +10,7 @@ Divided 100 days into 4 segments
    
 - [x] [Phase 2](https://github.com/AnshumanFauzdar/100DaysOfHardware/tree/main/Phase2) - Microprocessors and Microcontrollers
      
-- [x] [Phase 3](https://github.com/AnshumanFauzdar/100DaysOfHardware/tree/main/Phase3) - Embedded
+- [x] [Phase 3](https://github.com/bala5000/100DaysHardware/tree/main/Phase%203) - Embedded
      
 - [x] [Phase 4](https://github.com/AnshumanFauzdar/100DaysOfHardware/tree/main/Phase4) - PCB Designing
 
