@@ -4,8 +4,6 @@ In this segment I will focus on hardware and software keeping 3D printing and so
 
 PS: I am familiar with basic hardware and software tools, if you are not do check out youtube videos and purchase kits and tools if required.
 
-Days can vary by ±2 
-
 If any additional material, code is required it will be updated in this directory only.
 
 ---
@@ -72,4 +70,4 @@ If any additional material, code is required it will be updated in this director
 
 ---
 
-[Go back home](https://github.com/AnshumanFauzdar/100DaysOfHardware)
+[Go back home](https://github.com/bala5000/100DaysHardware)
