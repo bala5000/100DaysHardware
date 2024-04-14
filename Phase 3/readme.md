@@ -20,7 +20,7 @@ If any additional material, or code is required it will be updated in this direc
 <summary>64-67 Days</summary>
     
 ## Making examples schematics:
-- Studying already made examples
+- Studying already-made examples
 - Remixing them to use
 - Simulating circuits to check working
 - Ex: Simple 555 timer circuits
