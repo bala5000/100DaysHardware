@@ -1,8 +1,8 @@
 # Phase 2
 
-In this segment I will focus on hardware and software development in general.
+In this segment, I will focus on hardware and software development in general.
 
-PS: I am familiar with basic hardware and software tools, if you are not do check out youtube videos and purchase kits and tools if required.
+PS: I am familiar with basic hardware and software tools, if you are not do check out YouTube videos and purchase kits and tools if required.
 
 If any additional material, or code is required it will be updated in this directory only.
 
@@ -42,7 +42,7 @@ If any additional material, or code is required it will be updated in this direc
 
 ## Circuit Simulation continued
 - Testing basic circuits
-- LED, Motors and others simulation
+- LED, Motors and other simulation
 - Advanced simulation
 </details>
 
