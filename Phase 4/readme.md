@@ -8,7 +8,6 @@ If any additional material, or code is required it will be updated in this direc
 I built mini-projects based on what I've learned so far!
 
 ## Mini Satellite
-![Screenshot 2024-03-27 075028](https://github.com/bala5000/100DaysHardware/assets/95612640/ece83d6e-825f-4195-82ba-f718ca791550)
 ![image](https://github.com/bala5000/100DaysHardware/assets/95612640/da5232e0-60c9-469e-8965-9552d12cd4d8)
 
 ---
@@ -45,6 +44,15 @@ The program required that  Raspberry Pi Pico be uploaded to my github profile![S
 UI UX APP Link
 ![UI](https://drive.google.com/drive/folders/1hrZSTGXc6RPxkL3IPaj8su-j_UfkMSZJ?usp=sharing)
 ![image](https://github.com/bala5000/100DaysHardware/assets/95612640/9520656d-1b35-4b41-83bd-c77591068946)
+
+</details>
+
+##Other Mini Projects
+<details>
+  <summary>Photos</summary>
+
+</details>
+
 
 
 
